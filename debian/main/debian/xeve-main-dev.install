@@ -1,0 +1,5 @@
+usr/include/xeve/*
+usr/lib/*/lib*.so
+usr/lib/*/xeve/*
+usr/lib/*/pkgconfig/*
+
