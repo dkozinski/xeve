@@ -1,7 +1,7 @@
 Source: xeve-base
 Priority: optional
 Maintainer: Dawid Kozinski <dkozinsk@interia.pl>
-Uploaders: Dawid Kozinski <dkozinsk@interia.pl>, Dariusz Frankiewicz <dariusz.frankiewicz@gmail.com>
+Uploaders: Dariusz Frankiewicz <dariusz.frankiewicz@gmail.com>
 Build-Depends: cmake, debhelper (>= 10)
 Standards-Version: 4.1.2
 Section: libs
