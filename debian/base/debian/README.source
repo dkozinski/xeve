@@ -1,10 +1,7 @@
 xeve-base for Debian
 -------------------
 
-<this file describes information about the source package, see Debian policy
-manual section 4.14. You WILL either need to modify or delete this file>
-
-
+The eXtra-fast Essential Video Encoder (XEVE) is an opensource and fast MPEG-5 EVC encoder.
 
  -- Dawid Kozinski <dkozinsk@interia.pl>  Mon, 23 Jan 2023 08:54:35 +0100
 
