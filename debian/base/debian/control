@@ -6,7 +6,7 @@ Build-Depends: cmake, debhelper (>= 10)
 Standards-Version: 4.1.2
 Section: libs
 Homepage: https://github.com/mpeg5/xeve
-Vcs-Git: hhttps://github.com/mpeg5/xeve.git
+Vcs-Git: https://github.com/mpeg5/xeve.git
 #Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/xeve-base.git
 
 Package: xeve-base-dev
