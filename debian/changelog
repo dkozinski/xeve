@@ -1,4 +1,4 @@
-xeve (0.4.3-1ubuntu1) focal; urgency=medium
+xeve (0.4.3-1ubuntu1) bionic; urgency=medium
 
   [ mpeg5 ]
   * Initial commit
